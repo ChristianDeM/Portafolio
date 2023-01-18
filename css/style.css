@@ -1,3 +1,85 @@
-body{
-    background-color: gray;
+body {
+  background-color: gray;
 }
+
+#portada {
+  padding-top: 25%;
+  padding-bottom: 25%;
+  background-color: black;
+}
+
+#portada h1 {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+#portada h4 {
+  font-size: 25px;
+  font-weight: 100;
+  text-align: center;
+  color: white;
+}
+
+#Titulos {
+  background-color: white;
+}
+
+#Titulos .info {
+  background-color: black;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+#Titulos .info-titulos {
+  padding-top: 10px;
+  font-family: 'Oswald', sans-serif;
+  padding-left: 45px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#Titulos .info-titulos h6 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 10px;
+}
+
+#Titulos .info-titulos p {
+  color: white;
+}
+
+#Titulos .perfil {
+  background-color: white;
+  padding-bottom: 10%;
+}
+
+#Titulos .perfil .img-perfil {
+  padding-right: 0;
+}
+
+#Titulos .info-perfil {
+  padding-top: 10px;
+  font-family: 'Oswald', sans-serif;
+  padding-left: 45px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#Titulos .info-perfil h6 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 10px;
+}
+
+#Titulos .info-perfil p {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */

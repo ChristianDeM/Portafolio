@@ -1,0 +1,79 @@
+body {
+    background-color: gray;
+}
+
+#portada{
+    padding-top: 25%;
+    padding-bottom: 25%;
+    background-color: rgb(0, 0, 0);
+    h1{
+        font-size: 100px;
+        font-weight: bold;
+        text-align:center;
+        color:white;
+    }
+    h4{
+        font-size: 25px;
+        font-weight: 100;
+        text-align: center;
+        color:white;
+    }  
+}
+
+#Titulos{
+    background-color: white;
+    
+.info{
+    background-color: black;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+   .info-titulos{
+         padding-top: 10px;
+         font-family: 'Oswald', sans-serif;
+         padding-left: 45px;
+         padding-top: 25px;
+         padding-bottom: 25px;
+         h6{
+            color:white;
+            font-weight: bold;
+            font-size: 20px;
+            text-decoration: underline;
+            font-family: 'Oswald', sans-serif;
+            padding-bottom: 10px;
+        }
+        p{
+            color: white;
+        }
+   }
+
+   .perfil{
+    background-color: white;
+    padding-bottom: 10%;
+    .img-perfil{
+        padding-right: 0;
+    }
+   }
+   
+   .info-perfil{
+    padding-top: 10px;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    h6{
+       color:black;
+       font-weight: bold;
+       font-size: 20px;
+       text-decoration: underline;
+       font-family: 'Oswald', sans-serif;
+       padding-bottom: 10px;
+   }
+   p{
+       color: black
+   }
+   }
+
+   
+  
+}  
