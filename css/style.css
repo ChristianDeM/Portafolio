@@ -4,9 +4,24 @@ body {
 }
 
 #portada {
+  background-color: black;
+}
+
+#portada .portada-info {
   padding-top: 25%;
   padding-bottom: 25%;
-  background-color: black;
+}
+
+#portada .portada-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 #portada h1 {
