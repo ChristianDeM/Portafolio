@@ -86,5 +86,27 @@ body {
 
 #Diseños .diseños-info {
   background-color: white;
+  padding-top: 10px;
+  font-family: 'Oswald', sans-serif;
+  padding-left: 45px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#Diseños .diseños-info h4 {
+  color: black;
+  font-weight: 800;
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 10px;
+}
+
+#Diseños .diseños-info h6 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#Diseños .info-fotos {
+  background-color: black;
 }
 /*# sourceMappingURL=style.css.map */
