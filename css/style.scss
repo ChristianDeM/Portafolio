@@ -126,3 +126,30 @@ body {
 
     }
 }
+
+#Mockups{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    h4{
+        color:black;
+        font-weight:800;
+        font-size: 50px;
+        font-family: 'Oswald', sans-serif;
+        padding-bottom: 10px;
+        text-align: center;   
+    }
+
+    p{
+        color: black;
+        text-align: center;
+    }
+
+    .center-Mockups{
+        padding-top: 10px;
+        background-color: rgb(0, 175, 210);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

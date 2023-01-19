@@ -144,4 +144,38 @@ body {
       -ms-flex-align: center;
           align-items: center;
 }
+
+#Mockups {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#Mockups h4 {
+  color: black;
+  font-weight: 800;
+  font-size: 50px;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+#Mockups p {
+  color: black;
+  text-align: center;
+}
+
+#Mockups .center-Mockups {
+  padding-top: 10px;
+  background-color: #00afd2;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
 /*# sourceMappingURL=style.css.map */
