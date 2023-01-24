@@ -1,4 +1,5 @@
-# Plantilla de portafolio wee estatica 
+# Plantilla de portafolio web estatica 
+
 
 Proyecto simple usando 
 
@@ -6,5 +7,9 @@ Proyecto simple usando
 ``CSS``
 ``bootstrap 5.3``
 ``Sass``
+``animate.css ``
+``wow.js ``
 
 
+
+Proyecto simple de maquetado web 
